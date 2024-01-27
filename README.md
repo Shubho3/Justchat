@@ -12,7 +12,7 @@ Connect, share, and explore with ease Chat APK for Flutter, where conversations 
 
 1. Clone this repo
 ```sh
-git clone https://github.com/dev-rahul-0/Justchat
+git clone https://github.com/Shubho3/Justchat.git
 ```
 2. run this command to fetch the dependencies
 ```sh
