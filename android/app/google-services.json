@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "839817867335",
+    "project_id": "tensor-62d67",
+    "storage_bucket": "tensor-62d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817867335:android:7903155fc6167024614162",
+        "android_client_info": {
+          "package_name": "com.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VVr4_hKSQaJFjGtAtoI9onJHDX4PXZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817867335:android:9ac72220cd0731a9614162",
+        "android_client_info": {
+          "package_name": "com.investor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VVr4_hKSQaJFjGtAtoI9onJHDX4PXZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817867335:android:cf74d6dbdfe13025614162",
+        "android_client_info": {
+          "package_name": "com.tensor.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VVr4_hKSQaJFjGtAtoI9onJHDX4PXZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
